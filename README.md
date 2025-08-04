@@ -1,2 +1,2 @@
 # My-Repository
-Practising Github with this repository
+Practising and navigating Github with this repository 
